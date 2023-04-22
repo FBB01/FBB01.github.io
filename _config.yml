@@ -86,13 +86,13 @@ analytics:
 author:
   name             : "Rongxin Cui"
   avatar           : "cui.png"
-  bio              : "Data Scientist"
-  location         : "Xian,China"
+  bio              : "Northwestern Polytechnical University"
+  location         : "Xian,China,+86-29-88492945"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  orcid            : #"http://orcid.org/+86-29-88492945"
+  googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  email            : "r.cui@nwpu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
