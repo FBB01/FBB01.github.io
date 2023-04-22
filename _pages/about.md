@@ -26,7 +26,7 @@ RESEARCH INSTERESTS
 ======
 &emsp;<font size=3>Marine Robots, Systems and Control, Machine Learning, Guidance, Navigation and Control </font>
 
-SELECTED AWARDS
+<!-- SELECTED AWARDS
 ======
 1. <font size=3>Rongxin Cui(1/5); <b>Theory and Methods of Cooperative Control for Unmanned Underwater Vehicles</b>; Second Prize of Shaanxi Provincial Natural Science Award; 2021.4 </font>
 2. <font size=3>Rongxin Cui(2/4); <b>Intelligent Learning and High-Performance Adaptive Control Theory of Autonomous Systems in Complex and Unknown Environments</b>; First Prize of Natural Science Award of Chinese Association of Automation; 2022 </font>
@@ -59,13 +59,14 @@ SELECTED RECENT PROJECTS-ONLY LISTS ONES THAT CAN BE PUBLICLY DISCLOSED
 2. <font size=3> <b> Autonomous Perception and Decision of Amphibious Robots</b>;  NSFC, U1813225, 2019.01- 2022.12. RMB2,900,000,&emsp;<b>PI</b></font>
 3. <font size=3> <b> Bridge Underwater Structure Inspection Robot</b>; National Key Research and Development Program of China, 2019YFB1310402, 2019.12-2022.11. RMB1,980,000,&emsp;<b>PI</b></font>
 4. <font size=3> <b> Underwater Structure Inspection Robot</b>; Key Research and Development Program of Shaanxi Province, 2022ZDLGY0305, 2022.01-2024.12. RMB800,000&emsp;<b>PI</b></font>
+ -->
 
 
-
-SERVICES
+<!-- SERVICES
 ======
 &emsp;<font size=3><b> Editor</b> for <i>Journal of Intelligent Robotic and Systems</i></font>
 
 &emsp;<font size=3><b> Associate Editor</b> for <i> IEEE Transactions on Systems Man and Cybernetics: Systems</i></font>
 
 &emsp;<font size=3><b> Associate Editor</b> for <i>IET Cyber-systems and Robotics</i></font>
+ -->
