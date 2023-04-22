@@ -2,7 +2,7 @@
 title: "Leader-follower formation control of underactuated autonomous underwater vehicles"
 collection: publications
 permalink: /publication/2019-bayespostest
-date: 2019-10-01
+date: 2010-12-01
 venue: 'Ocean Engineering'
 paperurl: '/files/pdf/research/BayesPostEst.pdf'
 link: 'https://doi.org/10.1016/j.oceaneng.2010.07.006'
