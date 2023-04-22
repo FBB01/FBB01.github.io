@@ -6,28 +6,12 @@ author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
-
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
-
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
-
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+SELECTED RECENT PROJECTS-ONLY LISTS ONES THAT CAN BE PUBLICLY DISCLOSED
+======
+1. <font size=3> <b> Modelling and Control of Unmanned Remotely Operated Vehicle for Marine Object Salvage</b>; NSFC, U22A2066, 2023.01-2026.12, RMB2,530,000,&emsp;<b>PI</b></font>
+2. <font size=3> <b> Autonomous Perception and Decision of Amphibious Robots</b>;  NSFC, U1813225, 2019.01- 2022.12. RMB2,900,000,&emsp;<b>PI</b></font>
+3. <font size=3> <b> Bridge Underwater Structure Inspection Robot</b>; National Key Research and Development Program of China, 2019YFB1310402, 2019.12-2022.11. RMB1,980,000,&emsp;<b>PI</b></font>
+4. <font size=3> <b> Underwater Structure Inspection Robot</b>; Key Research and Development Program of Shaanxi Province, 2022ZDLGY0305, 2022.01-2024.12. RMB800,000&emsp;<b>PI</b></font>
 
 <nbsp>
 
