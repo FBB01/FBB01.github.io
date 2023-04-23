@@ -93,7 +93,7 @@ author:
   pubmed           :  #+86-29-88492945
   orcid            : #"http://orcid.org/+86-29-88492945"
   googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email-r.cui@nwpu.edu.cn            :  "r.cui@nwpu.edu.cn"
+  email            :  "r.cui@nwpu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :  
@@ -122,7 +122,7 @@ author:
   xing             :  
   youtube          :  
   wikipedia        :  
-#   tel              :  11111111
+  tel              :  11111111
 
 
 # Reading Files
