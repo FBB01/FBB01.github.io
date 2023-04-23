@@ -61,12 +61,10 @@ SELECTED RECENT PROJECTS-ONLY LISTS ONES THAT CAN BE PUBLICLY DISCLOSED
 4. <font size=3> <b> Underwater Structure Inspection Robot</b>; Key Research and Development Program of Shaanxi Province, 2022ZDLGY0305, 2022.01-2024.12. RMB800,000&emsp;<b>PI</b></font>
  -->
 
-
-<!-- SERVICES
+SERVICES
 ======
 &emsp;<font size=3><b> Editor</b> for <i>Journal of Intelligent Robotic and Systems</i></font>
 
 &emsp;<font size=3><b> Associate Editor</b> for <i> IEEE Transactions on Systems Man and Cybernetics: Systems</i></font>
 
 &emsp;<font size=3><b> Associate Editor</b> for <i>IET Cyber-systems and Robotics</i></font>
- -->
