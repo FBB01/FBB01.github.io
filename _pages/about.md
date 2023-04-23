@@ -20,7 +20,7 @@ EXPERIENCE
 ======
 * <font size=3>Professor in <i>School of Marine Science and Technology</i>, <b>Northwestern Polytechnical University</b>, <i>2015.05-Present</i></font>
 * <font size=3>Associate Professor in <i>School of Marine Science and Technology</i>, <b>Northwestern Polytechnical University</b>, <i>2010.08-2015.04</i></font>
-* <font size=3>头衔 in <i>Centre for Offshore Research and Engineering</i>, <b>National University of Singapore</b>, <i>2008.08-2010.08</i></font>
+* <font size=3>Postdoctor in <i>Centre for Offshore Research and Engineering</i>, <b>National University of Singapore</b>, <i>2008.08-2010.08</i></font>
 
 RESEARCH INSTERESTS
 ======
