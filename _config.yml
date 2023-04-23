@@ -88,9 +88,9 @@ author:
   avatar           : "cui.png"
   bio              : "Northwestern Polytechnical University"
   location         : "Xian,China"
-  tel              : "+86-29-88492945"
-  employer         :  +86-29-88492945
-  pubmed           :  +86-29-88492945
+                   : "+86-29-88492945"
+  employer         :  #+86-29-88492945
+  pubmed           :  #+86-29-88492945
   orcid            : #"http://orcid.org/+86-29-88492945"
   googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
   email            :  r.cui@nwpu.edu.cn
@@ -102,7 +102,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://fbb01.github.io"
+  github           : #"https://fbb01.github.io"
   gitlab           : 
   google_plus      :
   keybase          :
