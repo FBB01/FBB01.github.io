@@ -89,11 +89,11 @@ author:
   bio              : "Northwestern Polytechnical University"
   location         : "Xian,China"
   tel              : "+86-29-88492945"
-  employer         :
-  pubmed           :
+  employer         :  +86-29-88492945
+  pubmed           :  +86-29-88492945
   orcid            : #"http://orcid.org/+86-29-88492945"
   googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "r.cui@nwpu.edu.cn"
+  email            :  r.cui@nwpu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
