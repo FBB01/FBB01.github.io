@@ -93,35 +93,36 @@ author:
   pubmed           :  #+86-29-88492945
   orcid            : #"http://orcid.org/+86-29-88492945"
   googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            :  r.cui@nwpu.edu.cn
+  email-r.cui@nwpu.edu.cn            :  "r.cui@nwpu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :  15
-  bitbucket        :  16
-  codepen          :  17
-  dribbble         :  18
-  flickr           :  19
-  facebook         :  20
-  foursquare       :  21
+  uri              :  
+  bitbucket        :  
+  codepen          :  
+  dribbble         :  
+  flickr           :  
+  facebook         :  
+  foursquare       :  
   github           : #"https://fbb01.github.io"
-  gitlab           :  15
-  google_plus      :  14
-  keybase          :  13
-  instagram        :  11
+  gitlab           :  
+  google_plus      :  
+  keybase          :  
+  instagram        :  
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"jayrobwilliams"
   mastodon         : #"fosstodon.org/@jayrobw"
-  pinterest        :  10
-  soundcloud       :  99
+  pinterest        :  
+  soundcloud       :  
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
-  steam            :  88
-  tumblr           :  77
-  twitter          :  66
-  vine             :  55
-  weibo            :  44
-  xing             :  33
-  youtube          :  22
-  wikipedia        :  11
+  steam            :  
+  tumblr           :  
+  twitter          :  
+  vine             :  
+  weibo            :  
+  xing             :  
+  youtube          :  
+  wikipedia        :  
+#   tel              :  11111111
 
 
 # Reading Files
