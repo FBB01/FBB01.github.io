@@ -88,8 +88,8 @@ author:
   avatar           : "cui.png"
   bio              : "Northwestern Polytechnical University"
   location         : "Xian,China"
-                   : "+86-29-88492945"
-  employer         :  #+86-29-88492945
+
+  employer         :  +86-29-88492945
   pubmed           :  #+86-29-88492945
   orcid            : #"http://orcid.org/+86-29-88492945"
   googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
