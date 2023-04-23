@@ -10,7 +10,16 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-EDUCATION
+About me
+======
+&emsp;I am a Professor at the School of Marine Science and Technology at Northwestern Polytechnical University, with a research focus on the intersection of marine robotics, systems and control, machine learning, guidance, navigation, and control.
+
+&emsp;Prior to my current position, I worked as a postdoctoral researcher at the Centre for Offshore Research and Engineering at the National University of Singapore. I completed my Ph.D. in Control Science and Engineering at Northwestern Polytechnical University in 2008.
+
+&emsp;In addition to my teaching and research responsibilities, I am also an editor for Journal of Intelligent and Robotic Systems (JINT), and an associate editor for IEEE Transactions on Systems, Man, and Cybernetics: Systems (T-SMCA), as well as IET Cyber-Systems and Robotics (IET-CSR).
+
+
+<!-- EDUCATION
 ======
 * <font size=3>PhD. in <i>Control Science and Engineering</i>, <b>Northwestern Polytechnical University</b>, <i>2004.09-2008.07</i> </font>
 * <font size=3>M.Sc. Eng. in <i>Control Theory and Control Engineering</i>, <b>Northwestern Polytechnical University</b>,  <i>2003.09-2004.07</i></font>
@@ -24,7 +33,7 @@ EXPERIENCE
 
 RESEARCH INSTERESTS
 ======
-&emsp;<font size=3>Marine Robots, Systems and Control, Machine Learning, Guidance, Navigation and Control </font>
+&emsp;<font size=3>Marine Robots, Systems and Control, Machine Learning, Guidance, Navigation and Control </font> -->
 
 <!-- SELECTED AWARDS
 ======
